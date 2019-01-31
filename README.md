@@ -1,13 +1,13 @@
 # FridgeMaster
 [![Waffle.io - Columns and their card count](https://badge.waffle.io/bottd/fridgemaster.svg?columns=all)](https://waffle.io/bottd/fridgemaster)<br>
- An interactive Application that allows you to search a database of movies and select favorites
-
-### See it Live
-[FridgeMaster](https://fridgemaster.herokuapp.com/)
+ An interactive Application that allows you to search a database of recipes and see which ones you can make based on what ingredients you have.
 
 ### Setup
 
 [Setup](https://github.com/bottd/fridgemaster/blob/master/GETTING_STARTED.md)
+
+### See it Live
+[FridgeMaster](https://fridgemaster.herokuapp.com/api/v1)
 
 ### Contributing
 
