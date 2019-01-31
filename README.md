@@ -1,6 +1,7 @@
 # FridgeMaster
 [![Waffle.io - Columns and their card count](https://badge.waffle.io/bottd/fridgemaster.svg?columns=all)](https://waffle.io/bottd/fridgemaster)<br>
- An interactive Application that allows you to search a database of recipes and see which ones you can make based on what ingredients you have.
+ An interactive Application that allows you to search a database of recipes and see which ones you can make based on what ingredients you have. Fully tested with Continuous Integration via TravisCI
+ 
 ### Documentation
 
 * [Documentation](https://github.com/bottd/fridgemaster/blob/master/DOCUMENTATION.md)
