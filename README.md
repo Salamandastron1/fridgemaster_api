@@ -22,7 +22,8 @@
 ### Primary Javascript technologies
 * Express
 * PostgresSQL
-* Mocha/Chai
+* Mocha/Chai && ChaiHTTP
+* TravisCI
 
 ### Setup
 
