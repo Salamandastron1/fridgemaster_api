@@ -1,3 +1,5 @@
+/*eslint-disable*/
+
 const express = require('express');
 const knex = require('knex');
 
@@ -25,15 +27,16 @@ app.use((request, response, next) => {
   next();
 })
 
-app.get('/', (request, response) => {
-  response.sendFile('./index.html', {root: 'public' })
-})
 
 app.use(express.static('public'));
 
 app.use(express.json());
 
 app.set('port', process.env.PORT || 3000);
+
+app.get('/', (request, response) => {
+  response.sendFile('./public/index.html', {root: 'public' })
+})
 
 app.get('/api/v1/ingredients', async (req, res) => {
   const { originalUrl, query } = req;
