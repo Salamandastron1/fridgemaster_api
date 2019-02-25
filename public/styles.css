@@ -1,4 +1,4 @@
- {
+body{
   margin: auto 0;
   font-family: 'Muli', sans-serif;
 }
@@ -15,8 +15,7 @@
 }
 
 .end {
-  font-size: 25px;
-  margin-left: 50px;
+  text-align: center;
 }
 .endpoints {
   display: flex;
@@ -25,6 +24,7 @@
   height: 50px;
   border: 1px solid black;
   cursor: pointer;
+  justify-content: space-between;
 }
 
 .point1-text {
@@ -146,11 +146,6 @@ li a:hover {
 #ingredients, .recipes {
   justify-content: center;
   align-items: center;
-}
-
-.ending {
-  margin-right: 20px;
-  font-size: 20px;
 }
 
 .main {
