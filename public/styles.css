@@ -13,7 +13,9 @@ body{
   display: grid;
   justify-content: center;
 }
-
+.point-text{
+  font-size: .8em;
+}
 .endpoints {
   display: flex;
   margin: 32px 0 32px 0;
@@ -22,11 +24,14 @@ body{
   border: 1px solid black;
   cursor: pointer;
   justify-content: space-between;
+  align-items: center;
 }
 .nav-btn {
   float: left;
 }
-
+.end{
+  font-size: 1.1em;
+}
 li a {
   display: block;
   color: white;
