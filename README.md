@@ -11,7 +11,7 @@
 [Setup](https://github.com/bottd/fridgemaster/blob/master/GETTING_STARTED.md)
 
 ### See it Live
-[FridgeMaster](https://fridgemaster.herokuapp.com/api/v1)
+[FridgeMaster](https://fridgemaster.herokuapp.com/)
 
 ### Contributing
 [Contribution Guide](https://github.com/bottd/fridgemaster/blob/master/CONTRIBUTING.md)
